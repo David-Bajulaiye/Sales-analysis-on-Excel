@@ -9,7 +9,7 @@
 - [Exploratory Data Analysis](Exploratory-Data-Analysis)
 - [Data visualisation](Data-visualisation)
 - [Results / Findings](Results-/-Findings)
-
+- [Recommendations](Recommendations)
 
 ### Project overview
 This is an project that showcases data cleaning, use of pivot tables and data visualisation on Excel
