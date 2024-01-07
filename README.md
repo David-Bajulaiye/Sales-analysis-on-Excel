@@ -46,7 +46,7 @@ Sales Data: The dataset used for this analysis is the [sales_chartsanddashboards
 - Create a Dashboard in Microsoft Excel containing charts and tables
 
 
-### Results / Findings
+### Results and Findings
 The analysis of the results are:
 1. The peak month for sales revenue is June.
 2. The least month for sales revenue is February
