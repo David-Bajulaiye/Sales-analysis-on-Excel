@@ -1,4 +1,4 @@
-# A Food store sales analysis and visualisation on Excel
+# INSO Foods Ltd sales report
 
 
 ## Table of contents
@@ -46,7 +46,7 @@ Sales Data: The dataset used for this analysis is the "sales_chartsanddashboards
 
 
 ### Results / Findings
-The analysis results are:
+The analysis of the results are:
 1. The peak month for sales revenue is June.
 2. The least month for sales revenue is February
 3. The city with the highest sales in the year is Boston
