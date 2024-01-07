@@ -1,7 +1,7 @@
-# A Food store sales analysis and visualisation
+# A Food store sales analysis and visualisation on Excel
+
 
 ## Table of contents
-
 - [Project overview](#Project-overview)
 - [Data sources](Data-sources)
 - [Tools](Tools)
@@ -10,6 +10,7 @@
 - [Data visualisation](Data-visualisation)
 - [Results / Findings](Results-/-Findings)
 - [Recommendations](Recommendations)
+
 
 ### Project overview
 This is an project that showcases data cleaning, use of pivot tables and data visualisation on Excel
@@ -32,6 +33,7 @@ Sales Data: The dataset used for this analysis is the "sales_chartsanddashboards
 ### Exploratory Data Analysis
 - What is the overall sales trend?
 - What city is the top seller?
+
 
 ### Data visualisation
 - Create PivotTables in Microsoft Excel
