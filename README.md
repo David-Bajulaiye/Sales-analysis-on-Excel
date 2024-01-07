@@ -15,6 +15,8 @@
 ### Project overview
 This is an project that showcases data cleaning, use of pivot tables and data visualisation on Excel
 
+![sales dashboard](https://github.com/David-Bajulaiye/Sales-analysis-on-Excel/assets/144341829/86ec7d7a-f7b0-4099-aaa9-e305a3a7ef15)
+
 
 ### Data sources
 Sales Data: The dataset used for this analysis is the "sales_chartsanddashboards"
