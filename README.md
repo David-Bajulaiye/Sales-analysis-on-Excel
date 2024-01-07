@@ -23,7 +23,7 @@ Sales Data: The dataset used for this analysis is the "sales_chartsanddashboards
 
 
 ### Tools
-- Excel - Data 
+- Microsoft Excel
    - [Download here](https://microsoft.com)
 
 
@@ -49,9 +49,16 @@ Sales Data: The dataset used for this analysis is the "sales_chartsanddashboards
 The analysis of the results are:
 1. The peak month for sales revenue is June.
 2. The least month for sales revenue is February
+
+
 3. The city with the highest sales in the year is Boston
 4. The city with the lowest sales of the year is San diego
+
+  
 5. The top 2 food sold are cookies and bars
+
+
+ 
 
 
 ### Recommendations
