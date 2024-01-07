@@ -66,7 +66,7 @@ The analysis of the results are:
 
 
   
-6. The top 2 food sold are cookies and bars
+6. The top 2 snacks sold are cookies and bars
 
 ![pie 1](https://github.com/David-Bajulaiye/Sales-analysis-on-Excel/assets/144341829/ddc6622c-43b1-4ee5-a4f3-64aeec5ed1b7)
 
