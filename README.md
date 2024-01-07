@@ -19,7 +19,8 @@ This is a project that showcases data cleaning, use of pivot tables and data vis
 
 
 ### Data sources
-Sales Data: The dataset used for this analysis is the "sales_chartsanddashboards"
+Sales Data: The dataset used for this analysis is the [sales_chartsanddashboards.xlsx](https://github.com/David-Bajulaiye/Sales-analysis-on-Excel/files/13854943/sales_chartsanddashboards.xlsx)
+
 
 
 ### Tools
@@ -50,12 +51,24 @@ The analysis of the results are:
 1. The peak month for sales revenue is June.
 2. The least month for sales revenue is February
 
+<img width="316" alt="sales" src="https://github.com/David-Bajulaiye/Sales-analysis-on-Excel/assets/144341829/6634ba65-ee64-47c0-b032-39ed4aaed304">
 
-3. The city with the highest sales in the year is Boston
-4. The city with the lowest sales of the year is San diego
+
+
+
+4. The city with the highest sales in the year is Boston
+5. The city with the lowest sales of the year is San diego
+
+![pie 2](https://github.com/David-Bajulaiye/Sales-analysis-on-Excel/assets/144341829/cf161861-6d83-48a8-8ed8-8e03eefe7970)
+
+
+
+
 
   
-5. The top 2 food sold are cookies and bars
+6. The top 2 food sold are cookies and bars
+
+![pie 1](https://github.com/David-Bajulaiye/Sales-analysis-on-Excel/assets/144341829/ddc6622c-43b1-4ee5-a4f3-64aeec5ed1b7)
 
 
  
